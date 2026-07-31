@@ -1,0 +1,10 @@
+manifestVersion: 1
+name: calendar
+description: Google Calendar management
+
+tools:
+  entry: tools.ts
+  env:
+    - GOOGLE_CLIENT_ID
+    - GOOGLE_CLIENT_SECRET
+    - GOOGLE_REFRESH_TOKEN
