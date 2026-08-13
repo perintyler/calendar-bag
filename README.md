@@ -1,4 +1,4 @@
-# Calendar (Barry Pack)
+# Calendar (Barry bag)
 
 Google Calendar management — list and query events from Google Calendar.
 
