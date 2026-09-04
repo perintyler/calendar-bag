@@ -1,4 +1,4 @@
-import { defineTool, type ToolContext } from "@barry/tools";
+import { defineTool, type ToolContext } from "@barry-rocks/tools";
 import { z } from "zod";
 import { google, calendar_v3 } from "googleapis";
 import type { OAuth2Client } from "google-auth-library";
